@@ -18,7 +18,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class TranslationUtils extends AsyncTask<String, Void, JsonElement> {
 
-    static String subscriptionKey = "cea545b728684182ba9c2b872cf9241f";
+    static String subscriptionKey = "****";
 
     static String host = "https://api.cognitive.microsofttranslator.com";
     static String path = "/translate?api-version=3.0";
