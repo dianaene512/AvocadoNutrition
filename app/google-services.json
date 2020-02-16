@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "208215962284",
+    "firebase_url": "https://avocadonutrition-45c44.firebaseio.com",
+    "project_id": "avocadonutrition-45c44",
+    "storage_bucket": "avocadonutrition-45c44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208215962284:android:e25b2e7c72cf5475",
+        "android_client_info": {
+          "package_name": "com.example.diana.licentaschelet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208215962284-kjru6kn0u1mm5i22heg6puca921h41oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVUubwnjD7mfzo1E3NMjFYOx7pPhJzgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

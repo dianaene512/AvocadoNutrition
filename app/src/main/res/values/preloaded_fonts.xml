@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/average_sans</item>
+        <item>@font/bad_script</item>
+        <item>@font/basic</item>
+        <item>@font/galada</item>
+        <item>@font/kanit_extralight</item>
+        <item>@font/la_belle_aurore</item>
+        <item>@font/ubuntu_light</item>
+        <item>@font/waiting_for_the_sunrise</item>
+    </array>
+</resources>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">LicentaSchelet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome to AvocadoNutrition!</string>
+    <string name="keepMe">Keep me logged in</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="allergens">Allergens</string>
+    <string name="registration">Registration</string>
+    <string name="sign_up">Sign up</string>
+    <string name="settings">Settings</string>
+    <string name="statistics">Statistics</string>
+    <string name="recipes">Recipes</string>
+    <string name="favorite_products">Favorite products</string>
+    <string name="what_i_ate_today">What I Ate Today</string>
+    <string name="my_fridge">My fridge</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="failAuth">E-mail and/or password not correct.</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
+    <string name="resetPasswordText">Submit the e-mail address you used for creating the account and we\'ll send you a link where you can update your password</string>
+    <string name="submit">Submit</string>
+    <string name="checkMailLink">Check your e-mail for the link!</string>
+    <string name="tryAgain">Please try again</string>
+    <string name="failemail">Please provide a valid email address</string>
+    <string name="failmail">Please provide a valid email address</string>
+    <string name="failpass">You didn\'t mention your password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="account_information">Account information</string>
+    <string name="log_out">Log Out</string>
+    <string name="name">Name</string>
+    <string name="producer">Producer</string>
+    <string name="kcal">Kcal</string>
+    <string name="expiry_date">Expiry date</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="failempty">Can\'t be empty</string>
+    <string name="faildate">Date must have format dd/MM/yyyy</string>
+    <string name="failkcal">Calories must have numeric value</string>
+    <string name="failprice">Price must be numeric</string>
+    <string name="add_product_to_fridge">Add product to fridge</string>
+    <string name="info">Info</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Deleted</string>
+    <string name="add_new_favorite_product">Add new favorite product</string>
+    <string name="addasfav">Add as favorite</string>
+    <string name="addtofridge">Add to fridge</string>
+    <string name="productaddedtoyourfridge">Product added to your fridge!</string>
+    <string name="scan_barcode">Scan barcode</string>
+    <string name="searching">Searching...</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="goal">Goal</string>
+    <string name="translating">Translating</string>
+    <string name="downloadingimages">Downloading images</string>
+    <string name="noRecepiesFound">Sorry. we couldn\'t find any recipes for your particular combination of ingredients:(</string>
+
+
+    <string-array name="spnItemsGoal">
+        <item>Gain weight</item>
+        <item>Maintain weight</item>
+        <item>Lose weight</item>
+    </string-array>
+
+
+
+
+</resources>
